@@ -26,7 +26,7 @@
                         <li> <a href="{{url('/')}}">Beranda</a> </li>
                         <li> <a href="{{route('posts.index')}}">Artikel</a> </li>
                         <li> <a href="{{route('about')}}">Tentang Kami</a> </li>
-                        <li> <a href="{{route('contact')}}">Kontak</a> </li>
+                        <!-- <li> <a href="{{route('contact')}}">Kontak</a> </li> -->
                     </ul>
 
                     <form action="{{route('search')}}" class="navbar-form navbar-left" method="post">
@@ -42,7 +42,7 @@
                         <!-- Authentication Links -->
                         @guest
                             <li><a href="{{ route('login') }}">Masuk</a></li>
-                            <li><a href="{{ route('register') }}">Daftar</a></li>
+                            <!-- <li><a href="{{ route('register') }}">Daftar</a></li> -->
                         @else
 
                         <li class="dropdown">

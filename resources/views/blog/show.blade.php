@@ -20,12 +20,12 @@
                                         <span>by</span>
                                         <span><a href="#">Admin</a></span>
                                     </div>
-                                    <div class="share">
+                                    <!-- <div class="share">
                                         <label>Share:</label>
                                             <i class="fa fa-facebook"></i>
                                             <i class="fa fa-twitter"></i>
                                             <i class="fa fa-reddit"></i>
-                                    </div>
+                                    </div> -->
                                     <br>
                                     <br>
                                 </div>

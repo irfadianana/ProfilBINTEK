@@ -57,21 +57,55 @@
             <article class="section">
                 <div class="container">
                     <div class="row text-center">
-                        <p class="h1"><b>SEKSI TEKNIK PERENCANAAN DAN CIPTA KARYA</b></p>
-                        <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum nam numquam voluptates cumque </p>
+                        <p class="h1"><b>BIDANG BINA TEKNIK DAN PERENCANAAN</b></p>
+                        <p class="lead"><b><h3>SEKSI TEKNIK PERENCANAAN DAN CIPTA KARYA</h3></b></p>
                     </div>
                 </div>
             </article>
         </section>
+
+        <br><br>
+        <div class="col-md-10 col-md-offset-1">
+            <div class="well well-sm">
+                <fieldset>
+                    <legend class="text-center">Visi : </legend>
+                    <legend class="text-center"> 
+                    “Sulawesi Selatan yang Inovatif, Produktif, Kompetitif, Inklusif dan Berkarakter”</legend>
+                    <legend class="text-center">Misi : </legend>
+                    <legend>
+                    1. Meningkatkan Produktivitas dan Daya Saing Produk Sumberdaya Alam yang Berkelanjutan
+	                <br> 2. Meningkatkan Pemerataan Infrastruktur Wilayah
+	                <br> 3. Mewujudkan Pusat-Pusat Pertumbuhan Ekonomi Baru yang Produktif
+	                <br> 4. Mewujudkan Kualitas Manusia yang Kompetitif, Inklusif dan Berkarakter
+	                <br> 5. Meningkatkan Produktivitas dan Daya Saing Produk Sumberdaya Alam yang Berkelanjutan</legend>
+                    
+
+                </fieldset>
+            </div>
+
+        </div> 
+
 
 <div class="container-fluid">
         <section class="section">
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-
       <div id="grid_post" class="row list-group">
- 
+
+      <div class="container-fluid">
+        <section class="section">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                      <div class="text-center">
+                      <h1><b>Artikel</b></h1>
+                      </div>
+                    </div> 
+                </div> 
+            </div> 
+        </section>
+      </div>
 
     @foreach($posts as $post)
          <div class="item col-xs-4 col-lg-4">
