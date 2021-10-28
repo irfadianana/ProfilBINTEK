@@ -3,9 +3,10 @@
 @section('content') <br>
 
 <div class="container">
+    <br>
     <div class="text-center"><h1>Contact</h1></div>
         <hr>
-
+        
         <div class="col-md-8 col-md-offset-2">
             <div class="well well-sm">
                 <fieldset>

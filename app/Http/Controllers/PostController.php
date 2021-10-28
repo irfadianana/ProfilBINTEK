@@ -64,7 +64,7 @@ class PostController extends Controller
 
         $posts->save();
 
-        return back()->withInfo('Post Baru berhasil dibuat!');
+        return back()->withInfo('Artikel Baru berhasil dibuat!');
     }
 
     /**
@@ -121,7 +121,7 @@ class PostController extends Controller
 
         $posts->save();
 
-        return back()->withInfo('Post berhasil diedit!');
+        return back()->withInfo('Artikel berhasil diedit!');
     }
 
     /**

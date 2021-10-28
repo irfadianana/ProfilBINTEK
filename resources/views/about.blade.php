@@ -3,6 +3,7 @@
 @section('content') <br>
 
 <div class="container">
+    <br><br>
     <div class="text-center"><h1>About</h1></div>
         <hr>
 

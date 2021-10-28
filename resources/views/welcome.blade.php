@@ -16,38 +16,38 @@
     <div class="carousel-inner">
 
       <div class="item active">
-        <img src="{{asset('images/carousel(1).jpeg')}}" alt="Los Angeles" style="max-height: 500px; min-height: 500px; max-width: 1400px; min-width: 1400px; object-fit: cover;">
-        <div class="carousel-caption">
-          <h3>Los Angeles</h3>
-          <p>LA is always so much fun!</p>
-        </div>
+        <img src="{{asset('images/1.png')}}" alt="Los Angeles" style="max-height: 500px; min-height: 500px; max-width: 1400px; min-width: 1400px; object-fit: cover;">
+        <!-- <div class="carousel-caption">
+          <h3 style="color:#364878;">Teks</h3>
+          <p style="color:#364878;">Teks</p>
+        </div> -->
       </div>
 
       <div class="item">
-        <img src="{{asset('images/carousel(1).png')}}" alt="Chicago" style="max-height: 500px; min-height: 500px; max-width: 1400px; min-width: 1400px; object-fit: cover;">
-        <div class="carousel-caption">
-          <h3>Chicago</h3>
-          <p>Thank you, Chicago!</p>
-        </div>
+        <img src="{{asset('images/2.png')}}" alt="Chicago" style="max-height: 500px; min-height: 500px; max-width: 1400px; min-width: 1400px; object-fit: cover;">
+        <!-- <div class="carousel-caption">
+          <h3 style="color:#ffc928;">Teks</h3>
+          <p style="color:#ffc928;">Teks</p>
+        </div> -->
       </div>
     
       <div class="item">
-        <img src="{{asset('images/carousel(2).png')}}" alt="New York" style="max-height: 500px; min-height: 500px; max-width: 1400px; min-width: 1400px; object-fit: cover;">
-        <div class="carousel-caption">
-          <h3>New York</h3>
-          <p>We love the Big Apple!</p>
-        </div>
+        <img src="{{asset('images/3.png')}}" alt="New York" style="max-height: 500px; min-height: 500px; max-width: 1400px; min-width: 1400px; object-fit: cover;">
+        <!-- <div class="carousel-caption">
+          <h3 style="color:#364878;">Teks</h3>
+          <p style="color:#364878;">Teks</p>
+        </div> -->
       </div>
   
     </div>
 
     <!-- Left and right controls -->
     <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-      <span class="glyphicon glyphicon-chevron-left"></span>
+      <span></span>
       <span class="sr-only">Previous</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" data-slide="next">
-      <span class="glyphicon glyphicon-chevron-right"></span>
+      <span></span>
       <span class="sr-only">Next</span>
     </a>
   </div>
@@ -57,7 +57,7 @@
             <article class="section">
                 <div class="container">
                     <div class="row text-center">
-                        <p class="h1">SEKSI TEKNIK PERENCANAAN DAN CIPTA KARYA</p>
+                        <p class="h1"><b>SEKSI TEKNIK PERENCANAAN DAN CIPTA KARYA</b></p>
                         <p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nostrum nam numquam voluptates cumque </p>
                     </div>
                 </div>

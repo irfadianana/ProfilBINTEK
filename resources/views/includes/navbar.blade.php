@@ -1,4 +1,4 @@
-<nav class="navbar navbar-default navbar-static-top" style="position:fixed; width:1350px;">
+<nav class="navbar navbar-default navbar-static-top" style="width:1350px;">
             <div class="container">
                 <div class="navbar-header">
 
@@ -34,7 +34,7 @@
                         <div class="form-group">
                             <input type="text" name="search" class="form-control" placeholder="Cari...">
                         </div>
-                        <button type="submit"><i class="fa fa-search"></i></button>
+                        <button type="submit"><i>Cari</i></button>
                     </form>
 
                     <!-- Right Side Of Navbar -->

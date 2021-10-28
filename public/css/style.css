@@ -1,5 +1,6 @@
 body {
-    font-family: Roboto, "Helvetica Neue", Arial, sans-serif;
+    /* font-family: Mons, "Helvetica Neue", Arial, sans-serif; */
+    font-family: 'Montserrat', sans-serif;
     color: #7F7F7F;
     background-color: #fff;
 }
@@ -125,9 +126,22 @@ a:hover, a:focus {
 }
 
 .footer {
-    background-color: #364878;
+    /* background-color: #364878;
     color: #ffc928;
-    padding-top: 30px;
+    padding-top: 30px; */
+    /* position: absolute; */
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    /* height: 280px; */
+    background: 
+    /* color overlay */ 
+      linear-gradient(
+        rgba(240, 212, 0, 0.45), 
+        rgba(0, 0, 0, 0.45)
+      ),
+      /* image to overlay */
+      url('../../images/header.jpg');
 }
 
 .foot-geo {
@@ -135,8 +149,8 @@ a:hover, a:focus {
 }
 
 .footer-p {
-    background-color: #ffc928;
-    color: #364878;
+    background-color: #364878;
+    color: #ffc928;
     padding-top: 20px;
     text-align: center;
 }
