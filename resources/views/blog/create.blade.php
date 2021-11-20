@@ -53,7 +53,7 @@
                     <th>Judul Artikel</th>
                     <th>Edit Artikel</th>
                     <th>Hapus Artikel</th>
-                    <th>Tanggal Edit</th>
+                    <th>Waktu Edit</th>
                 </tr>
             </thead>
             <tbody>

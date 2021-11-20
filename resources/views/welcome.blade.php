@@ -58,7 +58,7 @@
                 <div class="container">
                     <div class="row text-center">
                         <p class="h1"><b>BIDANG BINA TEKNIK DAN PERENCANAAN</b></p>
-                        <p class="lead"><b><h3>SEKSI TEKNIK PERENCANAAN DAN CIPTA KARYA</h3></b></p>
+                        <p class="lead"><b><h3>SEKSI TEKNIK DAN PERENCANAAN CIPTA KARYA</h3></b></p>
                     </div>
                 </div>
             </article>
